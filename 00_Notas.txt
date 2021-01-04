@@ -31,3 +31,11 @@ Para crear un watcher
 	tsc -w *.ts
 	if not working:
 		https://stackoverflow.com/questions/50738687/typescript-ts-not-working
+		
+		
+TypeScript tiene tipado fuerte
+	nombre_variable : tipo_variable
+	
+var vs let
+	let se queda en el ambito donde se declara
+	var global o local sin importar el ambito del bloque
