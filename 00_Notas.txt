@@ -1,0 +1,33 @@
+-------------- INTRODUCCIÓN --------------
+
+¿Qué es TypeScript?
+	TypeScript es un superset de JS.
+	El código de TS se trasnforma en JS.
+
+Documentacion
+	https://www.typescriptlang.org/
+	
+Instalación
+	Primer tener nodejs
+	
+	Para typescript
+		npm install -g typescript
+		tsc -v
+		
+	
+-------------- EMPEZANDO CON TYPESCRIPT --------------
+
+Crear ficheros:
+	index.html
+	prueba.ts
+	
+Compilar
+	tsc prueba.ts
+	
+Genera
+	prueba.js
+	
+Para crear un watcher
+	tsc -w *.ts
+	if not working:
+		https://stackoverflow.com/questions/50738687/typescript-ts-not-working
