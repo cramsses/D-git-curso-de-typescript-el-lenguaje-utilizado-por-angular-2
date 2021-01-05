@@ -39,3 +39,22 @@ TypeScript tiene tipado fuerte
 var vs let
 	let se queda en el ambito donde se declara
 	var global o local sin importar el ambito del bloque
+	
+Funciones y tipado
+
+	function nombre_funcion(parameter_name:type):return_type{}
+	
+-------------- POO --------------
+
+¿Qué es?
+
+Clases
+	--> Molde
+Propiedad
+	-->Atributos, caracateristicas
+
+Métodos
+	--> Acciones
+	
+	
+

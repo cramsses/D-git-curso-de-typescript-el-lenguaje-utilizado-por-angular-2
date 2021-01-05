@@ -19,3 +19,18 @@ if (a === 7) {
     console.log("Dentro de IF: " + a_1 + " - " + b);
 }
 console.log("Fuera de IF: " + a + " - " + b);
+//funciones y tipado
+function devuelveNumero(num) {
+    return "Numero devuleto: " + num;
+}
+function devuelveString(texto) {
+    if (texto = "hola") {
+        var num = 66;
+    }
+    else {
+        var num = 90;
+    }
+    return num;
+}
+alert(devuelveNumero(21));
+alert(devuelveString("hola"));
