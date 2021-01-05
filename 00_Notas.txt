@@ -56,5 +56,21 @@ Propiedad
 Métodos
 	--> Acciones
 	
+
+
+Contructores
+	--> Metodo para inicializar objeto
+	
+	
+Visibilidad
+	public 		--> Desde cualquier lugar
+	protected 	--> Desde la clase en donde se define o en heredades
+	private		--> 
+	
+
+Interfaces
+	--> COntratos
+	
+
 	
 
